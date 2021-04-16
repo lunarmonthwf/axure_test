@@ -4540,3 +4540,38 @@
   width:344px;
   word-wrap:break-word;
 }
+#u156_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-decoration:underline;
+  color:#0000FF;
+}
+#u156 {
+  border-width:0px;
+  position:absolute;
+  left:833px;
+  top:309px;
+  width:170px;
+  height:16px;
+  text-decoration:underline;
+  color:#0000FF;
+}
+#u156_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  white-space:nowrap;
+}
